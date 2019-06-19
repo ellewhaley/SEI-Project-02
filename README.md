@@ -18,7 +18,7 @@
 2. Command npm init, followed by npm run serve
 
 ## Our Application
-link to hosted version ---->
+link to hosted version ----> https://ellewhaley.github.io/SEI-Project-02/#/
 
 ### Application Overview
 
